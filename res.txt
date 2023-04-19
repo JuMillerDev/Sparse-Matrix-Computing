@@ -1,0 +1,60 @@
+
+Size: 16
+relative errror Gauss: 
+1.466850003875454e-15
+relative errror Gauss with pivot: 
+3.3766115072321297e-16
+relative errror LU:
+1.466850003875454e-15
+relative errror LU with pivot:
+3.3766115072321297e-16
+
+Size: 10000
+relative errror Gauss:
+2.6979457399889918e-14
+relative errror Gauss with pivot: 
+4.952490752895815e-16
+relative errror LU: 
+2.6979457399889918e-14
+relative errror LU with pivot: 
+4.952490752895815e-16
+
+Size: 50000
+relative errror Gauss:
+5.983696068447594e-14
+relative errror Gauss with pivot: 
+5.378168315102863e-16
+relative errror LU: 
+5.983696068447594e-14
+relative errror LU with pivot: 
+5.378168315102863e-16
+
+Size: 100000
+relative errror Gauss:
+7.422229851374492e-13
+relative errror Gauss with pivot: 
+5.199630892522782e-16
+relative errror LU: 
+7.422229851374492e-13
+relative errror LU with pivot: 
+5.199630892522782e-16
+
+Size: 300000
+relative errror Gauss:
+6.521306370065581e-14
+relative errror Gauss with pivot: 
+4.554950254748486e-16
+relative errror LU: 
+6.521306370065581e-14
+relative errror LU with pivot: 
+4.554950254748486e-16
+
+Size: 500000
+relative errror Gauss:
+8.329169633245345e-14
+relative errror Gauss with pivot:
+4.507270850385053e-16
+relative errror LU:
+8.329169633245345e-14
+relative errror LU with pivot:
+4.507270850385053e-16
